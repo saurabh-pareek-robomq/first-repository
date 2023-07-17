@@ -1,1 +1,1 @@
-String name="ABC";
+String names="ABC";
